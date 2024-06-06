@@ -1,1 +1,1 @@
-Foi feita uma página simples para uma clínica veterinária em HTML, CSS e JS
+Página simples para uma clínica veterinária em HTML, CSS e JS
